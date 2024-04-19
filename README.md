@@ -4,10 +4,12 @@
 This README file and the associated project were created on April 15, 2024.
 
 ### Project Title
-Replace the Project Title
+Exploring US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project explores US bikeshare data using Python and Pandas. 
+It aims to analyze bikeshare usage patterns across different cities in the United States, including Chicago, New York City, and Washington, D.C.
+
 
 ### Files used
 Include the files used
